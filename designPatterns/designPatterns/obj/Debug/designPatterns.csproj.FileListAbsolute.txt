@@ -1,0 +1,6 @@
+c:\users\theaims\documents\visual studio 2015\Projects\designPatterns\designPatterns\bin\Debug\designPatterns.exe.config
+c:\users\theaims\documents\visual studio 2015\Projects\designPatterns\designPatterns\bin\Debug\designPatterns.exe
+c:\users\theaims\documents\visual studio 2015\Projects\designPatterns\designPatterns\bin\Debug\designPatterns.pdb
+c:\users\theaims\documents\visual studio 2015\Projects\designPatterns\designPatterns\obj\Debug\designPatterns.exe
+c:\users\theaims\documents\visual studio 2015\Projects\designPatterns\designPatterns\obj\Debug\designPatterns.pdb
+C:\Users\TheAIMS\Documents\Visual Studio 2015\Projects\designPatterns\designPatterns\obj\Debug\designPatterns.csprojResolveAssemblyReference.cache

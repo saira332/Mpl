@@ -1,0 +1,6 @@
+c:\users\theaims\documents\visual studio 2015\Projects\XML\XML\bin\Debug\XML.exe.config
+c:\users\theaims\documents\visual studio 2015\Projects\XML\XML\bin\Debug\XML.exe
+c:\users\theaims\documents\visual studio 2015\Projects\XML\XML\bin\Debug\XML.pdb
+c:\users\theaims\documents\visual studio 2015\Projects\XML\XML\obj\Debug\XML.csprojResolveAssemblyReference.cache
+c:\users\theaims\documents\visual studio 2015\Projects\XML\XML\obj\Debug\XML.exe
+c:\users\theaims\documents\visual studio 2015\Projects\XML\XML\obj\Debug\XML.pdb

@@ -1,0 +1,21 @@
+﻿@model List<ImageUpload.Models.upload>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+@foreach(var i in Model)
+{
+    <img height="200" width="200" src="~/images/@i.path"/>
+}
+
+<h2>File Uploading </h2>
+@using (Html.BeginForm("Index", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+
+    <input type="file" name="file" />
+
+    <input type="submit" value="upload file" />
+
+}
+

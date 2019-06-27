@@ -1,0 +1,6 @@
+c:\users\theaims\documents\visual studio 2015\Projects\SocketProgramming\SocketProgramming\bin\Debug\SocketProgramming.exe.config
+C:\Users\TheAIMS\Documents\Visual Studio 2015\Projects\SocketProgramming\SocketProgramming\bin\Debug\SocketProgramming.exe
+C:\Users\TheAIMS\Documents\Visual Studio 2015\Projects\SocketProgramming\SocketProgramming\bin\Debug\SocketProgramming.pdb
+C:\Users\TheAIMS\Documents\Visual Studio 2015\Projects\SocketProgramming\SocketProgramming\obj\Debug\SocketProgramming.csprojResolveAssemblyReference.cache
+C:\Users\TheAIMS\Documents\Visual Studio 2015\Projects\SocketProgramming\SocketProgramming\obj\Debug\SocketProgramming.exe
+C:\Users\TheAIMS\Documents\Visual Studio 2015\Projects\SocketProgramming\SocketProgramming\obj\Debug\SocketProgramming.pdb

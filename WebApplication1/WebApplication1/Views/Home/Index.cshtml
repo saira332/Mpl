@@ -1,0 +1,56 @@
+﻿@model IEnumerable<System.Collections.Generic.KeyValuePair<string,string>>
+@{
+    ViewBag.Title = "Index";
+}
+
+<html>
+<head>
+    <style>
+        nav{
+            height: 100px;
+        }
+        .outer{
+            list-style: none;
+        }
+        .outer li{
+            display : inline;
+            padding : 2px;
+        }
+        .outer .menu{
+            display: none;
+        }
+        .outer li:hover .menu{
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <h2>Index</h2>
+
+
+    <nav>
+        <ul class="outer">
+            @foreach (KeyValuePair<string, string> i in Model)
+            {
+                if (i.Value == "")
+                {
+                    <li>
+                        @i.Key
+                    </li>
+                }
+                else
+                {
+                    <ul class="menu">
+                        <li>
+                            @i.Value
+                        </li>
+                    </ul>
+                }
+            }
+
+        </ul>
+
+    </nav>
+</body>
+</html>
+

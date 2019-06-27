@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <std_id>1</std_id>
+    <std_name>fozi</std_name>
+    <age>66</age>
+    <smester>6</smester>
+  </Table>
+  <Table>
+    <std_id>2</std_id>
+    <std_name>khan</std_name>
+    <age>55</age>
+    <smester>5</smester>
+  </Table>
+</NewDataSet>
